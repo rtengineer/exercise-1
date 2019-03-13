@@ -35,19 +35,19 @@ body {
 .sp-title {
     font-size: 60px;
     margin-bottom: 40px;
-    color: #0a0a0a;
+    color: floralwhite;
     padding-left: 8rem;
     padding-top: -3rem;
   }
   .sp-title1 {
     font-size: 20px;
-    color: #0a0a0a;
+    color: floralwhite;
     padding-left: 9rem;
     margin-top: -2.5rem;
   }
   .sp-title4 {
     font-size: 20px;
-    color: #0a0a0a;
+    color: floralwhite;
     padding-left: 9rem;
   }
   .cd-intro-content h3,
@@ -132,7 +132,7 @@ body {
   }
   
   .intro-section {
-    background-color: pink;
+    background-image: url('../images/bg-jt.jpg');
     padding-top: 1rem;
   }
   
@@ -177,7 +177,7 @@ body {
     left: 10rem;
     margin-top: 0rem;
     position: relative;
-    background-color: #0a0a0a;
+    background-color: transparent;
     margin-right: 15px;
     z-index: 1;
   }
@@ -200,25 +200,25 @@ body {
   }
   
   .site-btn.sb-dark {
-    color: rgb(240, 0, 92);
+    color: floralwhite;
     letter-spacing: 0.3rem; 
     font-size: 17px;
  }
   
   .site-btn.sb-dark:after,
   .site-btn.sb-dark:before {
-    background: rgb(240, 0, 92);
+    background: floralwhite;
   }
   
   .site-btn.sb-solid-color {
-    background: rgb(240, 0, 92);
-    border-color: rgb(240, 0, 92);
+    background: floralwhite;
+    border-color: floralwhite;
   }
   
   .site-btn.sb-solid-dark {
     background: #0a0a0a;
     border-color: #0a0a0a;
-    color: rgb(240, 0, 92);
+    color: floralwhite;
   }
   
   .site-btn.sb-solid-dark:after,
@@ -374,7 +374,7 @@ body {
   }
   
   .sub-see1, .sub-see2, .sub-see3 {
-    color: #ffffff;
+    color: #0a0a0a;
     font-size: 1em;
     text-shadow: 0 5px 10px rgba(0,0,0,.1);
     padding-left: 27rem;
@@ -391,7 +391,7 @@ body {
   }
   
   .sub-see-1, .sub-see-2, .sub-see-3 {
-    color: #ffffff;
+    color: ##0a0a0a;
     text-shadow: 0 5px 10px rgba(0,0,0,.1);
     padding-left: 2rem;
     padding-top: 0rem;
@@ -418,7 +418,7 @@ body {
     line-height: 50px;
     z-index:2;
     padding-left: 3.5rem;
-    color: #ffffff;
+    color: ##0a0a0a;
     cursor: pointer;
     opacity: 0;
     -webkit-transition: opacity 1.5s ease;
@@ -470,7 +470,7 @@ body {
     line-height: 50px;
     z-index:2;
     padding-left: 3.5rem;
-    color: #ffffff;
+    color: ##0a0a0a;
     cursor: pointer;
     opacity: 0;
     -webkit-transition: opacity 1.5s ease;
